@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import About from './pages/About';
@@ -38,12 +38,12 @@ function App() {
             <Router>
                 <div className="container">
                     <Navbar />
-                    <Routes>
+                    <Switch>
                         <Route exact path="/" element={<Home />} />
                         <Route path="/about" element={<About />} />
                         <Route path="/contact" element={<Contact />} />
                         <Route path="/our-design" element={<OurDesign />} />
-                    </Routes>
+                    </Switch>
                 </div>
             </Router>
         </div>
