@@ -15,7 +15,7 @@ import slide5 from '../assets/image/livingroom.jpg';
 const Hero = () => {
     return (
         <div className="hero-container">
-            <div class="hero">
+            <div className="hero">
                 <h1>Where Creativity Meets Comfort</h1>
             </div>
 
