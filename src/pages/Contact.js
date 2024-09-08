@@ -49,12 +49,13 @@ const Contact = () => {
                 ) : (
                     <form onSubmit={handleSubmit}>
                         <div className="form-group">
-                            <label htmlFor="name">Name</label>
+                            <legend htmlFor="name">Name</legend>
                             <input
                             placeholder='Your Name'
                                 type="text"
                                 id="name"
                                 name="name"
+                                autoComplete='on'
                                 value={formData.name}
                                 onChange={handleChange}
                                 required
@@ -62,12 +63,13 @@ const Contact = () => {
                         </div>
 
                         <div className="form-group">
-                            <label htmlFor="emal">Email</label>
+                            <legend htmlFor="emal">Email</legend>
                             <input
                             placeholder='Your email'
                                 type="email"
                                 id="email"
                                 name="email"
+                                autoComplete='on'
                                 value={formData.email}
                                 onChange={handleChange}
                                 required
@@ -75,7 +77,7 @@ const Contact = () => {
                         </div>
 
                         <div className="form-group">
-                            <label htmlFor="message">Message</label>
+                            <legend htmlFor="message">Message</legend>
                             <textarea
                             placeholder='Your message'
                                 id="message"
