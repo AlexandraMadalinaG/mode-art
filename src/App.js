@@ -41,9 +41,9 @@ function App() {
                     <Routes>
                         <Route exact path="/mode-art" element={<Home />} />
                         <Route exact path="/" element={<Home />} />
-                        <Route path="/about" element={<About />} />
-                        <Route path="/contact" element={<Contact />} />
-                        <Route path="/our-design" element={<OurDesign />} />
+                        <Route path="about" element={<About />} />
+                        <Route path="contact" element={<Contact />} />
+                        <Route path="our-design" element={<OurDesign />} />
                     </Routes>
                 </div>
             </Router>
