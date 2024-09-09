@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mode.art/static/css/main.df05bdc7.css",
-    "main.js": "/mode.art/static/js/main.d83985fc.js",
+    "main.css": "/mode.art/static/css/main.ea54cfc1.css",
+    "main.js": "/mode.art/static/js/main.def2ded9.js",
     "static/media/dinner-space.jpg": "/mode.art/static/media/dinner-space.e113f585247eae8c36d1.jpg",
     "static/media/dinig-room.jpg": "/mode.art/static/media/dinig-room.252cf2b22cab7ecdcab4.jpg",
     "static/media/team1.jpg": "/mode.art/static/media/team1.c63bc079b2235c7aa918.jpg",
@@ -16,11 +16,11 @@
     "static/media/bathroom.jpg": "/mode.art/static/media/bathroom.f635cb27e471f829c5ef.jpg",
     "static/media/living-room.jpg": "/mode.art/static/media/living-room.1c1f017528b16b74ba83.jpg",
     "index.html": "/mode.art/index.html",
-    "main.df05bdc7.css.map": "/mode.art/static/css/main.df05bdc7.css.map",
-    "main.d83985fc.js.map": "/mode.art/static/js/main.d83985fc.js.map"
+    "main.ea54cfc1.css.map": "/mode.art/static/css/main.ea54cfc1.css.map",
+    "main.def2ded9.js.map": "/mode.art/static/js/main.def2ded9.js.map"
   },
   "entrypoints": [
-    "static/css/main.df05bdc7.css",
-    "static/js/main.d83985fc.js"
+    "static/css/main.ea54cfc1.css",
+    "static/js/main.def2ded9.js"
   ]
 }
