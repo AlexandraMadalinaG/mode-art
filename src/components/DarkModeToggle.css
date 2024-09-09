@@ -109,3 +109,6 @@ body.light-mode {
 .dark-mode .menu-icon {
     color: #f4f3ee;
 }
+.dark-mode .menu-icon {
+    background-color: #333;
+}
