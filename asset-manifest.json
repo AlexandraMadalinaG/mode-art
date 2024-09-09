@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mode.art/static/css/main.ea54cfc1.css",
+    "main.css": "/mode.art/static/css/main.efe92d94.css",
     "main.js": "/mode.art/static/js/main.def2ded9.js",
     "static/media/dinner-space.jpg": "/mode.art/static/media/dinner-space.e113f585247eae8c36d1.jpg",
     "static/media/dinig-room.jpg": "/mode.art/static/media/dinig-room.252cf2b22cab7ecdcab4.jpg",
@@ -16,11 +16,11 @@
     "static/media/bathroom.jpg": "/mode.art/static/media/bathroom.f635cb27e471f829c5ef.jpg",
     "static/media/living-room.jpg": "/mode.art/static/media/living-room.1c1f017528b16b74ba83.jpg",
     "index.html": "/mode.art/index.html",
-    "main.ea54cfc1.css.map": "/mode.art/static/css/main.ea54cfc1.css.map",
+    "main.efe92d94.css.map": "/mode.art/static/css/main.efe92d94.css.map",
     "main.def2ded9.js.map": "/mode.art/static/js/main.def2ded9.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea54cfc1.css",
+    "static/css/main.efe92d94.css",
     "static/js/main.def2ded9.js"
   ]
 }
