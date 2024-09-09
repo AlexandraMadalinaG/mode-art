@@ -40,13 +40,13 @@ export default function Navbar() {
                                 </Link>
                             </li>
                         </ul>
-                        <button className="menu-icon" onClick={() => setMobile(!Mobile)}>
+                        <div className="menu-icon" onClick={() => setMobile(!Mobile)}>
                             {Mobile ? (
                                 <i className="fa fa-times"></i>
                             ) : (
                                 <i className="fa fa-bars"></i>
                             )}
-                        </button>
+                        </div>
                     </nav>
                 </div>
             </div>
