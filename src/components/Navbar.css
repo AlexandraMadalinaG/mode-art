@@ -17,11 +17,6 @@
     max-width: 1200px;
     padding: 0 20px;
 }
-.flex1 {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 .logo {
     font-size: 24px;
     text-decoration: none;
@@ -32,7 +27,12 @@
    text-decoration: none;
      color: #333;
 }
-  .navbar .menu-icon {
+.flex1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+  .navbar button {
     border-radius: 5px;
     font-size: 15px;
      font-weight: bold;
@@ -41,7 +41,7 @@
     display: none;
     font-size: 28px;
     cursor: pointer;
-    color: #000;
+    color: #333;
     width: 30px;
     height: 30px;
     margin-left: 30px;
@@ -73,6 +73,8 @@
 
   /* -- responsive style */
   @media only screen and (max-width:768px) {
+
+     
     .menu-icon {
         display: block;
     }
