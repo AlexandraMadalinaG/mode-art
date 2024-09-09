@@ -75,7 +75,7 @@
 .modal-description p {
     font-size: 16px;
 }
-.modal button {
+.modal .btn-design{
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 16px;
@@ -85,6 +85,6 @@
     border-radius: 5px;
     cursor: pointer;
 }
-.modal button:hover {
+.modal .btn-design:hover {
     background-color: #555;
 }

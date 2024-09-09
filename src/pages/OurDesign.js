@@ -79,7 +79,7 @@ const OurDesign = () => {
                         <div className="modal-description">
                             <h3>{selectedDesign.title}</h3>
                             <p>{selectedDesign.description}</p>
-                            <button onClick={handleClose}>Close</button>
+                            <button onClick={handleClose} className='btn-design'>Close</button>
                         </div>
                     </div>
                 </div>
