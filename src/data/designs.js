@@ -10,8 +10,8 @@ const designs = [
     { id: 1, name: 'Modern Minimalist Kitchen', image: modernKitchen },
     { id: 2, name: 'Dining Room Minimalist Lamp', image: dinnerSpace },
     { id: 3, name: 'Dining Space Modern', image: diningRoom },
-    { id: 4, name: 'Modern Living Room Lamp', image: livingRoom },
-    { id: 5, name: 'Modern BathRoom', image: bathRoom },
+    { id: 4, name: 'Modern Livingroom Lamp', image: livingRoom },
+    { id: 5, name: 'Modern Bathroom', image: bathRoom },
     { id: 6, name: 'Colorful livingroom', image: colorLiving}, 
     { id: 7, name: 'Modern Lamp', image: modernLamp},
     //you can add more design items as needed

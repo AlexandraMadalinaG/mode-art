@@ -32,14 +32,14 @@ const designs = [
     {
         id: 4,
         image: creativeLiving,
-        title: 'Creative Living Room',
+        title: 'Creative Livingroom',
         description:
             'A spacious modern living room featuring a large beige sofa as the centerpiece, offering ample seating and a cozy, neutral palette. The room is flooded with natural light from an immense floor-to-ceiling window, which offers a stunning view of the outdoors. On one side, an expansive library with floor-to-ceiling shelves is filled with books and decorative pieces, adding both functionality and a touch of sophistication. The room is designed with clean lines and minimalistic decor, creating a welcoming yet refined atmosphere.',
     },
     {
         id: 5,
         image: colorfulLiving,
-        title: 'Colorful Living Room',
+        title: 'Colorful Livingroom',
         description: 'A cozy living room featuring a comfortable yellow sofa that adds a vibrant pop of color against the light beige walls. The space is filled with an array of lush green plants, creating a fresh and inviting atmosphere. A large picture with a leaf motif hangs prominently on one wall, complementing the natural theme of the room. A big glass door leads directly outside, providing easy access to the outdoors and allowing plenty of natural light to flood in, enhancing the room s warm and welcoming ambiance.'
     },
 ];
